@@ -10,8 +10,8 @@ class Train():
     def __init__(self, opt):
         super().__init__()
 
-        batch_size = 2
-        no_epochs = 30
+        batch_size = 4
+        no_epochs = 100
         learning_rate = 0.001
         no_classes = 3
         validation_split = 0.2
