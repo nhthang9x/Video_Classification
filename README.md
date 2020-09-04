@@ -1,4 +1,4 @@
-# [KERAS] Character-level Convolutional Networks for Text Classification
+# [KERAS] Convolutional Networks for Video Classification
 
 ## Introduction
 
